@@ -1,6 +1,6 @@
 # Aplicação de redes neurais profundas na caracterização de rejeitos radioativos
 
-Neste repositório estão armazenados os codigos Fortran, Pytho, Bash e outros utilizados no meu trabalho de mestrado com a seguinte estrutura:
+Neste repositório estão armazenados os codigos Fortran, Pytho, Bash e outros utilizados no meu trabalho de mestrado no Instituto de Pesquisas Energéticas e Nucleares (IPEN) com a seguinte estrutura:
 
 ## Aplicativo
 
