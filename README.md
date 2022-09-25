@@ -2,7 +2,7 @@
 
 Neste repositório estão armazenados os codigos Fortran, Pytho, Bash e outros utilizados no meu trabalho de mestrado com a seguinte estrutura:
 
-## Aplitavito
+## Aplicativo
 
 Aplitativo Python para utilizacao para classificacao de espectros gama salvos em formato IEC. O Aplicativo carrega a rede neural treinada e realiza a inferencia (classificacao e regressao).
 
